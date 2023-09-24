@@ -40,11 +40,3 @@ int main(){
     root = insert(root, 9);
     traversal(root);
 }
-
-/* Pipeline :
-
-first createnode with both left and right pointing to NULL
-Insert the Node at their positions. Involves case checking
-Traversal based on ascending order (in this example)
-
-*/
