@@ -26,28 +26,28 @@
 <h3 id="queue-implementation-using-array">Queue Implementation Using Array</h3>
     <p>The <code>implementation_of_queue_using_array.c</code> file contains an implementation of a queue data structure using an array. Similar to the linked list-based queue, this implementation follows the FIFO principle and provides functions for enqueueing and dequeuing elements.</p>
     
-  <h4>Usage</h4>
+  <h4 id="stack-implementation">Usage</h4>
     <p>Compile the <code>implementation_of_queue_using_array.c</code> file using a C compiler and run the executable to interact with the queue data structure.</p>
 
-<h3>Stack Implementation</h3>
+<h3 id="stack-implementation">Stack Implementation</h3>
     <p>The <code>implementation_of_stack.c</code> file contains an implementation of a stack data structure using a linked list. A stack operates on the Last-In-First-Out (LIFO) principle and supports push (addition) and pop (removal) operations.</p>
     
   <h4>Usage</h4>
     <p>Compile the <code>implementation_of_stack.c</code> file using a C compiler and run the executable to interact with the queue data structure.</p>
 
-<h3>Stack Implementation Using Array</h3>
+<h3 id="stack-implementation-using-array">Stack Implementation Using Array</h3>
     <p>The <code>implementation_of_stack_using_array.c</code> file contains an implementation of a queue data structure using an array. Similar to the linked list-based queue, this implementation follows the FIFO principle and provides functions for enqueueing and dequeuing elements.</p>
     
   <h4>Usage</h4>
     <p>Compile the <code>implementation_of_stack_using_array.c</code> file using a C compiler and run the executable to interact with the queue data structure.</p>
 
-<h3>Tree Implementation</h3>
+<h3 id="tree-implementation">Tree Implementation</h3>
     <p>The <code>implementation_of_trees.c</code> file contains an implementation of a binary tree data structure. The program demonstrates basic tree operations, including creating a tree, inserting nodes, and performing depth-first traversal (in-order, pre-order, and post-order).</p>
     
   <h4>Usage</h4>
     <p>Compile the <code>implementation_of_trees.c</code> file using a C compiler and run the executable to interact with the queue data structure.</p>
 
-<h3>Priority Queue Implementation</h3>
+<h3 id="priority-queue-implementation">Priority Queue Implementation</h3>
     <p>The <code>implementation_of_priority_queue.c</code> contains a C program that implements a priority queue data structure. A priority queue is a data structure that allows elements to be inserted with an associated priority and supports retrieval based on the highest or lowest priority.s.</p>
     
   <h4>Usage</h4>
