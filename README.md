@@ -9,7 +9,7 @@
     
   <h2>Table of Contents</h2>
     <ol>
-        <li><a href="queue-implementation">Queue Implementation</a></li>
+        <li><a href="#queue-implementation">Queue Implementation</a></li>
         <li><a href="#queue-implementation-using-array">Queue Implementation Using Array</a></li>
         <li><a href="#stack-implementation">Stack Implementation</a></li>
         <li><a href="#stack-implementation-using-array">Stack Implementation Using Array</a></li>
@@ -23,7 +23,7 @@
   <h4>Usage</h4>
     <p>Compile the <code>implementation_of_queue.c</code> file using a C compiler and run the executable to interact with the queue data structure.</p>
 
-<h3>Queue Implementation Using Array</h3>
+<h3 id="queue-implementation-using-array">Queue Implementation Using Array</h3>
     <p>The <code>implementation_of_queue_using_array.c</code> file contains an implementation of a queue data structure using an array. Similar to the linked list-based queue, this implementation follows the FIFO principle and provides functions for enqueueing and dequeuing elements.</p>
     
   <h4>Usage</h4>
