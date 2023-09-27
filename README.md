@@ -1,1 +1,1 @@
-# C-programs
+# C-Algorithms
