@@ -66,5 +66,12 @@
     
   <h3>Acknowledgments</h3>
     <p>Special thanks to the C programming community for their valuable contributions and insights into data structures and algorithms.</p>
+
+## Contributors
+
+Thanks to the following people who have contributed to this project:
+
+- [saqlain2204](https://github.com/saqlain2204) - Created this repo For open Souce and help other to learn DSA.
+- [vivekBoii](https://github.com/vivekBoii) - Helped in docs.
     
   <p>Happy coding!</p>
